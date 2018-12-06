@@ -2,7 +2,7 @@
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=Windows-1254" />
 
-<meta name="Generator" content="  Hacked by Mr.Kz &./sadsec04
+<meta name="Generator" content="  Hacked by./sadsec04
  ">
 
 <meta name="Author" content="Hacked">
